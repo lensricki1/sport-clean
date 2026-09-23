@@ -205,3 +205,94 @@ https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceVanillaIslands.fr@SD" group-title="🇪🇺 🎵 MUSIQUE EUROPE",TRACE Vanilla Islands
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
+
+# 👶 ENFANTS - CANADA
+
+#EXTINF:-1 tvg-id="CBCKidsChannel.ca@SD" group-title="👶 ENFANTS - CANADA",CBC Kids Channel
+https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
+
+#EXTINF:-1 tvg-id="KidoodleTV.ca@SD" group-title="👶 ENFANTS - CANADA",Kidoodle.TV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD" group-title="👶 ENFANTS - CANADA",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+# 👶 ENFANTS
+
+# 🇫🇷 FRANCE
+#EXTINF:-1 tvg-id="France4.fr" group-title="👶 ENFANTS - FRANCE",France 4
+https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
+
+# 🇫🇷 FRANCE
+#EXTINF:-1 tvg-id="Gulli.fr" group-title="👶 ENFANTS - FRANCE",Gulli
+http://99.27.51.147:8080/Gulli/index.m3u8
+
+# 🇫🇷 FRANCE
+#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="👶 ENFANTS - FRANCE",Gulli Girl
+https://live-3.otcnet.ru/GulliGirl/index.m3u8
+
+# 🌍 INTERNATIONAL
+#EXTINF:-1 tvg-id="BabyTV.uk@Turkiye" group-title="👶 ENFANTS - INTERNATIONAL",BabyTV
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+# 🇷🇺 EUROPE
+#EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="👶 ENFANTS - EUROPE",TiJi
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+
+# 🇷🇺 EUROPE
+#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="👶 ENFANTS - EUROPE",Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+
+# 🏀 BASKETBALL / NBA
+
+#EXTINF:-1 tvg-id="PlayersTV.ca" group-title="🏀 BASKETBALL",Players TV
+https://players-tv.akamaized.net/hls/live/2033796/players-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="Stadium.us" group-title="🏀 BASKETBALL",Stadium
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsGrid.us" group-title="🏀 BASKETBALL",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+
+#EXTM3U
+
+# 🐘 NATURE & ANIMAUX
+#EXTINF:-1 group-title="🐘 NATURE & ANIMAUX",WildEarth
+https://wildearth-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🐘 NATURE & ANIMAUX",NatureVision TV
+https://naturevisiontv.com/hls/live.m3u8
+
+#EXTINF:-1 group-title="🐘 NATURE & ANIMAUX",Terra Mater Wild
+https://stream.mux.com/placeholder.m3u8
+
+#EXTINF:-1 group-title="🐘 NATURE & ANIMAUX",InWild
+https://inwild-samsung-ca.amagi.tv/playlist.m3u8
+
+# 🔬 SCIENCES & DOCUMENTAIRES
+#EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",Documentary+
+https://dplus-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",NHK World Japan
+https://master.nhkworld.jp/nhkworld.m3u8
+
+#EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",History Hit
+https://historyhit-plex.amagi.tv/playlist.m3u8
+
+# 🌍 GÉOPOLITIQUE & MONDE
+#EXTINF:-1 group-title="🌍 GÉOPOLITIQUE & MONDE",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+
+#EXTINF:-1 group-title="🌍 GÉOPOLITIQUE & MONDE",Africa 24 English
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+
+#EXTINF:-1 group-title="🌍 GÉOPOLITIQUE & MONDE",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 group-title="🌍 GÉOPOLITIQUE & MONDE",Africanews English
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+
+#EXTINF:-1 group-title="🌍 GÉOPOLITIQUE & MONDE",Africanews Français
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
