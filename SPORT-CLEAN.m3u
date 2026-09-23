@@ -329,52 +329,42 @@ https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
 # 🇫🇷 FRANCE
 
 #EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-country="FR" group-title="🇫🇷 FRANCE | 🎬 SÉRIES / LIFESTYLE",MyZen TV
-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-country="FR" group-title="🇫🇷 FRANCE | 📺 SÉRIES",RMC Story
-
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" tvg-country="FR" group-title="🇫🇷 FRANCE | 📺 SÉRIES",Sony One Blacklist
-
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PuissanceTV.fr@SD" tvg-country="FR" group-title="🇫🇷 FRANCE | 🎵 MUSIQUE",Puissance TV
-
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
 # 🇺🇸 USA
 
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" tvg-country="US" group-title="🇺🇸 USA | 🎬 FILMS / CLASSIQUES",FilmRise Classic TV
-
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 
 #EXTINF:-1 tvg-id="Movies.us@SD" tvg-country="US" group-title="🇺🇸 USA | 🎬 FILMS",Movies!
-
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 
 # 🎵 MUSIQUE INTERNATIONALE
 
 #EXTINF:-1 tvg-id="FuelTV" group-title="🌎 INTERNATIONAL | 🎵 MUSIQUE / ACTION",FUEL TV
-
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 
 # 🎬 ENTERTAINMENT INTERNATIONAL
 
 #EXTINF:-1 tvg-id="MyZenTV" group-title="🌎 INTERNATIONAL | 🎬 LIFESTYLE",MyZen TV
-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 # 🌍 INTERNATIONAL
 
 #EXTINF:-1 tvg-country="INT" group-title="🌍 INTERNATIONAL | 🏄 SPORTS / ENTERTAINMENT",EDGESport
-
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 # 🌍 INTERNATIONAL
 
 #EXTINF:-1 tvg-country="INT" group-title="🌍 INTERNATIONAL | 🏄 SPORTS / ENTERTAINMENT",World of Freesports
-
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 
