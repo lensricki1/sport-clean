@@ -327,3 +327,15 @@ https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls
 
 #EXTINF:-1 tvg-id="BELTV.ht" group-title="🇭🇹🎬 FILMS HAÏTIENS",BEL TV
 https://5caf24a595d94.streamlock.net:1937/qqmngmnhev/qqmngmnhev/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNH.ht" group-title="🇭🇹 HAÏTI",TNH
+http://36bay4.tulix.tv/hdirect-tnh/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleGinen.ht" group-title="🇭🇹 HAÏTI",Télé Ginen
+http://36bay4.tulix.tv/hdirect-teleginen/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleCaraibes.ht" group-title="🇭🇹 HAÏTI",Télé Caraïbes
+https://glb.bozztv.com/glb/hdirect/hdirect-telecaraibes/index.m3u8
+
+#EXTINF:-1 tvg-id="SNLTV.ht" group-title="🇭🇹 HAÏTI",SNL TV
+https://live.acwstream.com:3246/live/snltvlive.m3u8
