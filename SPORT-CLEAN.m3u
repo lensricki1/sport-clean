@@ -266,38 +266,16 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 group-title="🌍 GÉOPOLITIQUE & MONDE",Africanews Français
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
-# 🎬 FILMS
-#EXTINF:-1 tvg-id="MovieSphere.us@US" group-title="🎬 FILMS",MovieSphere
-https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
-
 # 🎬 FILMS GRATUITS
 
 #EXTINF:-1 tvg-id="MovieSphere.us@US" group-title="🎬 FILMS",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" group-title="🎬 FILMS",FilmRise Free Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseSciFi.us" group-title="🎬 FILMS",FilmRise Sci-Fi
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="FilmRiseWestern.us" group-title="🎬 FILMS",FilmRise Westerns
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" group-title="🎬 FILMS",FilmRise Classic TV
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseAction" group-title="🎬 FILMS",FilmRise Action
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseHorror" group-title="🎬 FILMS",FilmRise Horror
-https://aegis-cloudfront-1.tubi.video/ae32ebac-afe0-47c3-b08b-e07d26e3944a/master.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseBlackTVCanada" group-title="🎬 FILMS",FilmRise Black TV Canada
-https://livetv-fa.tubi.video/filmrise-blacktv-canada/index.m3u8
-
-#EXTINF:-1 tvg-id="Movies!" group-title="🎬 FILMS",Movies!
-https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 
 #EXTINF:-1 tvg-id="ClassicMoviesChannel" group-title="🎬 FILMS",Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
@@ -315,26 +293,6 @@ https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/
 
 #EXTINF:-1 group-title="🇫🇷🎬 FILMS FRANCOPHONES",EMOTION'L
 https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
-
-# 🇭🇹🎬 FILMS / DIVERTISSEMENT HAÏTIEN
-
-#EXTINF:-1 tvg-id="BELTV.ht" group-title="🇭🇹🎬 FILMS HAÏTIENS",BEL TV
-https://5caf24a595d94.streamlock.net:1937/qqmngmnhev/qqmngmnhev/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNH.ht" group-title="🇭🇹 HAÏTI",TNH
-http://36bay4.tulix.tv/hdirect-tnh/index.m3u8
-
-#EXTINF:-1 tvg-id="TeleGinen.ht" group-title="🇭🇹 HAÏTI",Télé Ginen
-http://36bay4.tulix.tv/hdirect-teleginen/index.m3u8
-
-#EXTINF:-1 tvg-id="TeleCaraibes.ht" group-title="🇭🇹 HAÏTI",Télé Caraïbes
-https://glb.bozztv.com/glb/hdirect/hdirect-telecaraibes/index.m3u8
-
-#EXTINF:-1 tvg-id="SNLTV.ht" group-title="🇭🇹 HAÏTI",SNL TV
-https://live.acwstream.com:3246/live/snltvlive.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVAnimals.us" group-title="🐘 NATURE & ANIMAUX",Pluto TV Animals
-https://jmp2.uk/plu-56b27f85ff3037045055037e.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAnimales.es" group-title="🐘 NATURE & ANIMAUX",Pluto TV Animales Espagne
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
