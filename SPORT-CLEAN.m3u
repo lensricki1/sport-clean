@@ -256,17 +256,24 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTM3U
 
 # 🐘 NATURE & ANIMAUX
-#EXTINF:-1 group-title="🐘 NATURE & ANIMAUX",WildEarth
-https://wildearth-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🐘 NATURE & ANIMAUX",NatureVision TV
-https://naturevisiontv.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="WildEarth.uk" group-title="🐘 NATURE & ANIMAUX",WildEarth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 
-#EXTINF:-1 group-title="🐘 NATURE & ANIMAUX",Terra Mater Wild
-https://stream.mux.com/placeholder.m3u8
+#EXTINF:-1 tvg-id="WildEarth" group-title="🐘 NATURE & ANIMAUX",WildEarth
+https://wildearth-lg-us.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lg-us/CDN/master.m3u8
 
-#EXTINF:-1 group-title="🐘 NATURE & ANIMAUX",InWild
-https://inwild-samsung-ca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureVision" group-title="🐘 NATURE & ANIMAUX",NatureVision
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Love_Nature" group-title="🐘 NATURE & ANIMAUX",Love Nature
+https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="InWild" group-title="🐘 NATURE & ANIMAUX",InWild
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary" group-title="🐘 NATURE & ANIMAUX",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 # 🔬 SCIENCES & DOCUMENTAIRES
 #EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",CGTN Documentary
@@ -349,12 +356,38 @@ https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls
 
 # 🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT
 
-# Télé Ginen
-# TNH
-# Télé Kiskeya
-# Télé Boston
-# Scoop TV
-# KouL TV
-# HBN TV
-# Cinepam
-# Télé Caraïbes
+#EXTINF:-1 tvg-id="Cinepam.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Cinépam
+https://glb.bozztv.com/glb/hdirect/hdirect-cinepam-2/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleGinen.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Télé Ginen
+https://glb.bozztv.com/glb/hdirect/hdirect-teleginen/index.m3u8
+
+#EXTINF:-1 tvg-id="TNH.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",TNH
+https://glb.bozztv.com/glb/hdirect/hdirect-tnhtv2/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleKiskeya.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Télé Kiskeya
+https://glb.bozztv.com/glb/hdirect/hdirect-telekiskeya/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleBoston.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Télé Boston
+https://glb.bozztv.com/glb/hdirect/hdirect-teleboston/index.m3u8
+
+#EXTINF:-1 tvg-id="KouLTV.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",KouL TV
+https://glb.bozztv.com/glb/hdirect/hdirect-koultv/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleMetropole.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Télé Métropole
+https://glb.bozztv.com/glb/hdirect/hdirect-telemetrolple2/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleCaraibes.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Télé Caraïbes
+https://glb.bozztv.com/glb/hdirect/hdirect-telecaraibes/index.m3u8
+
+#EXTINF:-1 tvg-id="KajouTV.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Kajou TV
+https://glb.bozztv.com/glb/hdirect/hdirect-kajoutv/index.m3u8
+
+#EXTINF:-1 tvg-id="NagoTV.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Nago TV
+https://glb.bozztv.com/glb/hdirect/hdirect-nagotv/index.m3u8
+
+#EXTINF:-1 tvg-id="Tele6Univers.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",Télé 6 Univers
+https://video.lakay.live:3044/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="SNLTV.ht" group-title="🇭🇹🎬 HAÏTI - FILMS & DIVERTISSEMENT",SNL TV
+https://live.acwstream.com:3246/live/snltvlive.m3u8
