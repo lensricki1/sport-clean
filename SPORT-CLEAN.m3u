@@ -33,13 +33,6 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 group-title="🌍 INTERNATIONAL SPORTS",Belarus 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
-# 🇭🇹 HAÏTI / CARAÏBES
-#EXTINF:-1 tvg-id="TraceAyiti.fr@SD" group-title="🇭🇹 HAÏTI / CARAÏBES",TRACE Ayiti
-https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
-
-#EXTINF:-1 tvg-id="TraceCaribbean.fr@SD" group-title="🇭🇹 HAÏTI / CARAÏBES",TRACE Caribbean
-https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-
 #EXTINF:-1 tvg-id="TraceUrban.fr@CaribbeanAndIndianOcean" group-title="🇭🇹 HAÏTI / CARAÏBES",TRACE Urban Caribbean & Indian Ocean
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 
@@ -339,3 +332,14 @@ https://glb.bozztv.com/glb/hdirect/hdirect-telecaraibes/index.m3u8
 
 #EXTINF:-1 tvg-id="SNLTV.ht" group-title="🇭🇹 HAÏTI",SNL TV
 https://live.acwstream.com:3246/live/snltvlive.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us" group-title="🐘 NATURE & ANIMAUX",Pluto TV Animals
+https://jmp2.uk/plu-56b27f85ff3037045055037e.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimales.es" group-title="🐘 NATURE & ANIMAUX",Pluto TV Animales Espagne
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.fr" group-title="🐘 NATURE & ANIMAUX",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+
+
