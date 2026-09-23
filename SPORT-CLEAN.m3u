@@ -296,3 +296,39 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 
 #EXTINF:-1 group-title="🌍 GÉOPOLITIQUE & MONDE",Africanews Français
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+# 🎬 FILMS
+#EXTINF:-1 tvg-id="MovieSphere.us@US" group-title="🎬 FILMS",MovieSphere
+https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
+
+# 🎬 FILMS GRATUITS
+
+#EXTINF:-1 tvg-id="MovieSphere.us@US" group-title="🎬 FILMS",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" group-title="🎬 FILMS",FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseSciFi.us" group-title="🎬 FILMS",FilmRise Sci-Fi
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseWestern.us" group-title="🎬 FILMS",FilmRise Westerns
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" group-title="🎬 FILMS",FilmRise Classic TV
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseAction" group-title="🎬 FILMS",FilmRise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseHorror" group-title="🎬 FILMS",FilmRise Horror
+https://aegis-cloudfront-1.tubi.video/ae32ebac-afe0-47c3-b08b-e07d26e3944a/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseBlackTVCanada" group-title="🎬 FILMS",FilmRise Black TV Canada
+https://livetv-fa.tubi.video/filmrise-blacktv-canada/index.m3u8
+
+#EXTINF:-1 tvg-id="Movies!" group-title="🎬 FILMS",Movies!
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+
+#EXTINF:-1 tvg-id="ClassicMoviesChannel" group-title="🎬 FILMS",Classic Movies Channel
+https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
