@@ -300,4 +300,28 @@ https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimaux.fr" group-title="🐘 NATURE & ANIMAUX",Pluto TV Animaux
 https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 
+# 🇨🇦 CANADA
 
+#EXTINF:-1 tvg-id="TVA.ca" tvg-country="CA" group-title="🇨🇦 CANADA",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+#EXTINF:-1 tvg-id="TéléQuébec.ca" tvg-country="CA" group-title="🇨🇦 CANADA",Télé-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SavoirMedia.ca" tvg-country="CA" group-title="🇨🇦 CANADA",Savoir Média
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="CPACFrench.ca" tvg-country="CA" group-title="🇨🇦 CANADA",CPAC Français
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+
+#EXTINF:-1 tvg-id="ICI.ca" tvg-country="CA" group-title="🇨🇦 CANADA",ICI Montréal
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
+#EXTINF:-1 tvg-id="ICIRDI.ca" tvg-country="CA" group-title="🇨🇦 CANADA",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-country="CA" group-title="🇨🇦 CANADA",CBC News
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000042/CBCRCLINEAR_TOR_CBCNN/master_3000.m3u8
+
+#EXTINF:-1 tvg-id="CBCNewsExplore.ca" tvg-country="CA" group-title="🇨🇦 CANADA",CBC News Explore
+https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
