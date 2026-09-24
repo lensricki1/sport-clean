@@ -305,9 +305,6 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleDominicanaTV.do@SD" group-title="Music",Tele Dominicana TV
 https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="FuegoTV.do@SD" group-title="Music",Fuego TV (720p) [Not 24/7]
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CDN.do" group-title="Dominican Republic",CDN
 http://190.61.90.17:40000/play/a03p/index.m3u8
 
@@ -329,20 +326,12 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-id="Teleimpacto.do" group-title="Dominican Republic",Teleimpacto
 https://vpss2003.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" group-title="⚽ SOCCER",CBS Sports Golazo Network
-https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
-
-#EXTINF:-1 tvg-id="TVQSports.gt@SD" group-title="⚽ SOCCER",TVQ Sports Guatemala
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
-
-#EXTINF:-1 tvg-id="TigoSports.pa@SD" group-title="⚽ SOCCER",Tigo Sports Panama
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiM/m3u8
-
-#EXTINF:-1 tvg-id="CDNDeportes.do@HD" group-title="⚽ SOCCER",CDN Deportes
-https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
-
 #EXTINF:-1 tvg-id="HaitiSportsTV1.ht@SD" group-title="⚽ SOCCER",Haiti Sports TV 1
 # Flux référencé par iptv-org — URL directe non exposée actuellement
 
 #EXTINF:-1 tvg-id="TVJSportsNetwork.jm@SD" group-title="⚽ SOCCER",TVJ Sports Network
 # Flux référencé par iptv-org — URL directe non exposée actuellement
+
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+https://iptv-org.github.io/iptv/categories/sports.m3u
