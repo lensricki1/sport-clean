@@ -30,9 +30,6 @@ https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="🌍 INTERNATIONAL SPORTS",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL SPORTS",Belarus 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TraceUrban.fr@CaribbeanAndIndianOcean" group-title="🇭🇹 HAÏTI / CARAÏBES",TRACE Urban Caribbean & Indian Ocean
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 
@@ -73,19 +70,12 @@ https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tj" group-title="⚽ SOCCER / SPORTS LIVE",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
 
-# 🏎️ MOTORSPORT
-#EXTINF:-1 tvg-id="MotorsportTV" group-title="🏎️ MOTORSPORT",Motorsport.tv
-https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RedBullTV.at" group-title="🏎️ MOTORSPORT",Red Bull TV
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
 
 # 🏄 ACTION SPORTS
 #EXTINF:-1 tvg-id="FUELTV" group-title="🏄 ACTION SPORTS",FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="EDGESport" group-title="🏄 ACTION SPORTS",EDGESport
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WorldOfFreesports" group-title="🏄 ACTION SPORTS",World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
@@ -173,28 +163,13 @@ https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-id="CBCKidsChannel.ca@SD" group-title="👶 ENFANTS - CANADA",CBC Kids Channel
 https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
 
-#EXTINF:-1 tvg-id="KidoodleTV.ca@SD" group-title="👶 ENFANTS - CANADA",Kidoodle.TV
-https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD" group-title="👶 ENFANTS - CANADA",Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 # 👶 ENFANTS
 
 # 🇫🇷 FRANCE
-#EXTINF:-1 tvg-id="France4.fr" group-title="👶 ENFANTS - FRANCE",France 4
-https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
-
-# 🇫🇷 FRANCE
 #EXTINF:-1 tvg-id="Gulli.fr" group-title="👶 ENFANTS - FRANCE",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
-
-# 🇫🇷 FRANCE
-#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="👶 ENFANTS - FRANCE",Gulli Girl
-https://live-3.otcnet.ru/GulliGirl/index.m3u8
-
-# 🌍 INTERNATIONAL
-#EXTINF:-1 tvg-id="BabyTV.uk@Turkiye" group-title="👶 ENFANTS - INTERNATIONAL",BabyTV
-https://saran-live.ercdn.net/babytv/index.m3u8
 
 # 🇷🇺 EUROPE
 #EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="👶 ENFANTS - EUROPE",TiJi
@@ -205,9 +180,6 @@ https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
 # 🏀 BASKETBALL / NBA
-
-#EXTINF:-1 tvg-id="PlayersTV.ca" group-title="🏀 BASKETBALL",Players TV
-https://players-tv.akamaized.net/hls/live/2033796/players-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.us" group-title="🏀 BASKETBALL",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
@@ -222,12 +194,6 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth.uk" group-title="🐘 NATURE & ANIMAUX",WildEarth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WildEarth" group-title="🐘 NATURE & ANIMAUX",WildEarth
-https://wildearth-lg-us.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lg-us/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="NatureVision" group-title="🐘 NATURE & ANIMAUX",NatureVision
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-
 #EXTINF:-1 tvg-id="Love_Nature" group-title="🐘 NATURE & ANIMAUX",Love Nature
 https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
 
@@ -240,15 +206,6 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 # 🔬 SCIENCES & DOCUMENTAIRES
 #EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
-#EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",Documentary+
-https://dplus-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",NHK World Japan
-https://master.nhkworld.jp/nhkworld.m3u8
-
-#EXTINF:-1 group-title="🔬 SCIENCES & DOCUMENTAIRES",History Hit
-https://historyhit-plex.amagi.tv/playlist.m3u8
 
 # 🌍 GÉOPOLITIQUE & MONDE
 #EXTINF:-1 group-title="🌍 GÉOPOLITIQUE & MONDE",Africa 24
@@ -305,31 +262,14 @@ https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-country="CA" group-title="🇨🇦 CANADA",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
-#EXTINF:-1 tvg-id="TéléQuébec.ca" tvg-country="CA" group-title="🇨🇦 CANADA",Télé-Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SavoirMedia.ca" tvg-country="CA" group-title="🇨🇦 CANADA",Savoir Média
 https://hls.savoir.media/live/stream.m3u8
-
-#EXTINF:-1 tvg-id="CPACFrench.ca" tvg-country="CA" group-title="🇨🇦 CANADA",CPAC Français
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 
 #EXTINF:-1 tvg-id="ICI.ca" tvg-country="CA" group-title="🇨🇦 CANADA",ICI Montréal
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-#EXTINF:-1 tvg-id="ICIRDI.ca" tvg-country="CA" group-title="🇨🇦 CANADA",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-
 #EXTINF:-1 tvg-id="CBCNews.ca" tvg-country="CA" group-title="🇨🇦 CANADA",CBC News
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000042/CBCRCLINEAR_TOR_CBCNN/master_3000.m3u8
-
-#EXTINF:-1 tvg-id="CBCNewsExplore.ca" tvg-country="CA" group-title="🇨🇦 CANADA",CBC News Explore
-https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
-
-# 🇫🇷 FRANCE
-
-#EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-country="FR" group-title="🇫🇷 FRANCE | 🎬 SÉRIES / LIFESTYLE",MyZen TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-country="FR" group-title="🇫🇷 FRANCE | 📺 SÉRIES",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
@@ -345,9 +285,6 @@ https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" tvg-country="US" group-title="🇺🇸 USA | 🎬 FILMS / CLASSIQUES",FilmRise Classic TV
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 
-#EXTINF:-1 tvg-id="Movies.us@SD" tvg-country="US" group-title="🇺🇸 USA | 🎬 FILMS",Movies!
-https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
-
 # 🎵 MUSIQUE INTERNATIONALE
 
 #EXTINF:-1 tvg-id="FuelTV" group-title="🌎 INTERNATIONAL | 🎵 MUSIQUE / ACTION",FUEL TV
@@ -357,11 +294,6 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 
 #EXTINF:-1 tvg-id="MyZenTV" group-title="🌎 INTERNATIONAL | 🎬 LIFESTYLE",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-
-# 🌍 INTERNATIONAL
-
-#EXTINF:-1 tvg-country="INT" group-title="🌍 INTERNATIONAL | 🏄 SPORTS / ENTERTAINMENT",EDGESport
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 # 🌍 INTERNATIONAL
 
