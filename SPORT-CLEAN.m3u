@@ -331,7 +331,3 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="TVJSportsNetwork.jm@SD" group-title="⚽ SOCCER",TVJ Sports Network
 # Flux référencé par iptv-org — URL directe non exposée actuellement
-
-https://iptv-org.github.io/iptv/categories/music.m3u
-
-https://iptv-org.github.io/iptv/categories/sports.m3u
